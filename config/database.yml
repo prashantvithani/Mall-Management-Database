@@ -1,0 +1,26 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: mall_management_dev
+  host: localhost
+  pool: 5
+  username: postgres
+  password: postgres
+
+# test:
+#   adapter: postgresql
+#   encoding: unicode
+#   database: mall_management_test
+#   host: localhost
+#   pool: 5
+#   username: postgres
+#   password: postgres
+
+# production:
+#   adapter: postgresql
+#   encoding: unicode
+#   database: mall_management_production
+#   host: localhost
+#   pool: 5
+#   username: postgres
+#   password: postgres
